@@ -1,6 +1,6 @@
 ## Project Overview
 
-### 1. Amazon Electric Guitar Scraper
+### 1. [Amazon Electric Guitar Scraper](https://github.com/Shwetangi99/Web-Scraping/blob/main/Amazon_Electric-Guitar.R)
   *Objective:* Efficiently scrape and analyze data on electric guitars available on Amazon.
   
   *Key Features:*
@@ -9,7 +9,7 @@
       - Filtering Options: Applies filters based on brand name and price range to refine data.
       - Statistical Analysis: Computes mean, median, and other relevant statistics from the extracted data for in-depth analysis.
 
-### 2. Table Loop
+### 2. [Table Loop](https://github.com/Shwetangi99/Web-Scraping/blob/main/Table_Loop.R)
   *Objective:* Automate data extraction from multi-page tables on websites.
   
   *Key Features:*
@@ -17,7 +17,7 @@
       - Pagination Management: Handles navigation through "Next Page" buttons to access data across multiple pages.
       - Data Aggregation: Stores and consolidates the entire table data from all pages into a comprehensive dataset.
 
-### 3. Government School Data Extractor
+### 3. [Government School Data Extractor](https://github.com/Shwetangi99/Web-Scraping/blob/main/Govt_School_Data.R)
   *Objective:* Extract data from government school websites with advanced captcha handling.
   
   *Key Features:*
@@ -26,7 +26,7 @@
       - Technologies Used: Employs Tesseract for Optical Character Recognition (OCR) and ImageMagick for image processing.
       - Dynamic Looping: Adapts to different captcha formats through a robust looping mechanism to ensure continuous data extraction.
 
-### 4. Job Search at Deloitte
+### 4. [Job Search at Deloitte](https://github.com/Shwetangi99/Web-Scraping/blob/main/Job_Search.R)
   *Objective:* Retrieve job listings for Data Science positions at Deloitte.
   
   *Key Features:*
