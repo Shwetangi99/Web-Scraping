@@ -33,3 +33,12 @@
   
       - Job Listing Extraction: Gathers detailed job opportunities specific to Data Science roles.
       - Tab Navigation: Manages multiple browser tabs to streamline the process of collecting job information.
+
+### 5. [Web Scraping Graph Data from MoneyControl](https://github.com/Shwetangi99/Web-Scraping/blob/main/graph_scrape.R)
+  *Objective:* Extract stock market price data directly from graphs on the MoneyControl website, even when the data is not readily available. This is useful for intraday traders to analyze stock price patterns.
+  
+  *Key Features:*
+  
+      - Graph Data Extraction: Extract stock price data directly from graphs that aren't available in a structured format.
+      - JSON Data Parsing: Data embedded in JavaScript is captured from network requests, parsed, and converted into a usable format for analysis.
+      - Easy to Use: Extracted data is cleaned and structured for further analysis or visualization.
